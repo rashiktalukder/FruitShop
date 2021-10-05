@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497569139182",
+    "project_id": "fruit-delivery-v2",
+    "storage_bucket": "fruit-delivery-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497569139182:android:fab2f0fd10b67f1bce26ff",
+        "android_client_info": {
+          "package_name": "com.rashik.fruitdeliveryv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497569139182-7edio60t7bv77fitemruq03ptpej49ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJA-wd6ks0s-_KPoTkgvxDRB_bz8lCsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497569139182-7edio60t7bv77fitemruq03ptpej49ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
